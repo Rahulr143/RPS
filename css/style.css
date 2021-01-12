@@ -1,0 +1,46 @@
+body {
+    background-image: url(https://logopond.com/logos/2b87ce43e374d83b194fa4fe69745d9a.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    bor
+}
+
+#gf {
+    text-decoration: none;
+    font-size: xx-large;
+    font-style: oblique;
+}
+
+.container-3 {
+    border: 1px solid black;
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+    background-color: wheat;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.flex-con-3 {
+    display: flex;
+    border: 1px solid black;
+    padding: 10px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.flex-container div {
+    padding: 10px;
+    display: flex;
+    border: 1px solid black;
+}
+
+.flex-con-3 img:hover {
+    box-shadow: 0px 10px 50px rgba(37, 50, 233, 1);
+}
+
+h1 {
+    font-family: 'Pacifico', cursive;
+}
